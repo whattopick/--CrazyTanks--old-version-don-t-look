@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1521436454 source:d:\codebloxx\projects\new folder\crazytanks\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Field.h"
+	<thread>
+	"AllyTank.h"
+	"AllyBullet.h"
+
+1521436093 source:d:\codebloxx\projects\new folder\crazytanks\src\field.cpp
+	"Field.h"
+	"stdio.h"
+	"EnemyTank.h"
+	"CursorController.h"
+	<windows.h>
+	<string>
+	<time.h>
+	<stdlib.h>
+
+1521435925 d:\codebloxx\projects\new folder\crazytanks\include\field.h
+	"CursorController.h"
+
+1521435878 source:d:\codebloxx\projects\new folder\crazytanks\src\enemytank.cpp
+
+1521435876 d:\codebloxx\projects\new folder\crazytanks\include\enemytank.h
+
+1521393090 source:d:\codebloxx\projects\new folder\crazytanks\src\cursorcontroller.cpp
+	"CursorController.h"
+	<windows.h>
+	<stdio.h>
+
+1521392887 d:\codebloxx\projects\new folder\crazytanks\include\cursorcontroller.h
+	<string>
+
+1521436291 source:d:\codebloxx\projects\new folder\crazytanks\src\allytank.cpp
+	"AllyTank.h"
+	"Field.h"
+	<windows.h>
+	<conio.h>
+	"AllyBullet.h"
+	<thread>
+
+1521427044 d:\codebloxx\projects\new folder\crazytanks\include\allytank.h
+	"Field.h"
+	<windows.h>
+	"AllyBullet.h"
+
+1521429058 d:\codebloxx\projects\new folder\crazytanks\include\allybullet.h
+	"CursorController.h"
+	"Field.h"
+
+1521436322 source:d:\codebloxx\projects\new folder\crazytanks\src\allybullet.cpp
+	"AllyBullet.h"
+	<conio.h>
+	<windows.h>
+	<string>
+	<time.h>
+	<stdlib.h>
+
